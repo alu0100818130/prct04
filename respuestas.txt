@@ -1,1 +1,2 @@
 RVM es un software controlador de las diferentes versiones de Ruby.
+La diferencia es que irb lee, evalúa e imprime mientras que ruby solo muestra por pantalla el resultado.
