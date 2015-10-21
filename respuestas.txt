@@ -1,2 +1,5 @@
 RVM es un software controlador de las diferentes versiones de Ruby.
 La diferencia es que irb lee, evalúa e imprime mientras que ruby solo muestra por pantalla el resultado.
+Pry es una shell potente alternativa a la estándar shell de IRB para Ruby.
+La diferencia entre intérprete interactivo y PRY es similar a la que tiene con ruby. IRB lee, evalúa e imprime, mientras que pry se encarga de ejecutar el fichero y de mostrar su salida por pantalla.
+
